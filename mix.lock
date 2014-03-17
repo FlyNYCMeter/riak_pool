@@ -1,6 +1,6 @@
 [ "ex_doc": {:git, "git://github.com/elixir-lang/ex_doc.git", "c14203bfca186f68ff178e5ada9af4f5fb37e205", []},
-  "meck": {:git, "git://github.com/basho/meck.git", "2b25a30a8688f94106d07f23a9f1fb523ac00f08", [tag: "0.8.1"]},
+  "meck": {:git, "https://github.com/eproxus/meck", "8433cf2e07862ea8c66e85e2578b7146b4332354", [tag: "0.7.2-56-g8433cf2"]},
   "poolboy": {:git, "git://github.com/devinus/poolboy.git", "91b68de43d49bcccf2631016febda70b20d7aa75", [tag: "1.1.0"]},
-  "protobuffs": {:git, "git://github.com/basho/erlang_protobuffs.git", "0b00f9031cda5ffe83a3d183e14f2dc918bc2932", [tag: "0.8.1p2"]},
-  "riak_pb": {:git, "git://github.com/basho/riak_pb", "2adf207d053738559811eb17f62f7ce6b6f5cc95", [tag: "2.0.0.7"]},
-  "riakc": {:git, "git://github.com/basho/riak-erlang-client.git", "44a725b71816170e44b9eacccfc97f255b75e024", []} ]
+  "protobuffs": {:git, "git://github.com/basho/erlang_protobuffs.git", "ec7e99f57f5bbcd91c56242091485d41bc78c3d4", [tag: "0.8.1p1"]},
+  "riak_pb": {:git, "git://github.com/basho/riak_pb", "0353be3e04b971ac802acbd6b78d74589db2f6df", [tag: "1.4.4.0"]},
+  "riakc": {:git, "git://github.com/basho/riak-erlang-client.git", "8d33c020f4ca392200b2d0d973c77dd48164b263", [tag: "1.4.2"]} ]
